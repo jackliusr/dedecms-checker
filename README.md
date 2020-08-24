@@ -15,3 +15,6 @@ checking the following:
 - list-article: tkd,og:image, bds.js and their order
 - index: tkd,og:image, bds.js and their order
 - article-article: tkd,og:image, bds.js and their order
+- bds.js exists under /skin/js and contains the trackId in site.yml
+- logo.png exists /skin/images/logo.png and its dimension is 120x75
+- defaultpic.gif at /skin/images
